@@ -31,8 +31,9 @@ dependencies:
   - hhsuite=3.3
   - openmm=7.5.1
   - nvidia::cudatoolkit=11.1.1 
-  - pdbfixer
-
+  - pdbfixer\
+  - aria2
+  - hmmer
 
   - pip:
     - -r requirements.txt
