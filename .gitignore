@@ -1,2 +1,10 @@
 env/
 seq_dbs/
+.conda/
+prediction/
+*.ipynb
+*.egg-info
+*.egg
+build/
+data/
+content/
